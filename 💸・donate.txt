@@ -1,18 +1,4 @@
 # 💸・donate — 1 msgs (including deleted)
-# exported 2026-09-01T19:54:43.290597Z
+# exported 2026-09-01T19:58:30.493714Z
 ============================================================
-[2026-08-29T10:21:11] Glacier [1543203377519792129]: **Support us by donating! Every contribution helps.**
-
-**Bitcoin**
-``bc1qw9a8kzkacz4fzvzm0rczjgfc3va9hj7j8nhnl7``
-
-**Etherium**
-``0x04BaCb0adC1f1A6bBA6114B823C13d3F1e2FE3cf``
-
-**Litecoin**
-``ltc1q9ryyxwc34495lekk9wc0y0czrlzvsmvcfrmvpt``
-
-**Solana**
-``DvHRDZoNbZKNynSRMf1oK65BtYPRW4XmJDfz6Xy3L6sm``
-
-**Thank you for your support!**
+[2026-08-29T10:21:11] Glacier [1543203377519792129]: *no content*

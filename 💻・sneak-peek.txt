@@ -1,8 +1,6 @@
 # 💻・sneak-peek — 3 msgs (including deleted)
-# exported 2026-09-01T19:54:43.290278Z
+# exported 2026-09-01T19:58:30.493416Z
 ============================================================
 [2026-08-29T09:44:42] revin (@rev.in) [1524123422173429844]: @here : Unlike sober , we will have an option to import and export FFlags making it easier to share them and use them.  Also , unlike sober we will have much more customization. Expect glacierstrap to release soon , currently working on a stable build which works on most distrobutions.  Got suggestions for glacierstrap , let us know!
-https://cdn.discordapp.com/attachments/1543182732333682729/1543194676730007562/image.png?ex=6a97f00a&is=6a969e8a&hm=e46bdce3063d97223a4f3fd3ab9b3c7e93fa92f660e2adcca29e630ffd9fcdc0&
 [2026-08-29T19:13:48] amar (@6b0m) [871031524424831006]: external flight @here
-https://cdn.discordapp.com/attachments/1543182732333682729/1543337898357690548/Screenshot_20260829_211329.png?ex=6a97ccac&is=6a967b2c&hm=f690de9efefbfbba6aede321f00f87b632351be5684980d971a1ccc241121b25&
-[2026-08-30T16:59:54] jerry_linux [1456211309271187577]: https://cdn.discordapp.com/attachments/1543182732333682729/1543666588794888234/image.png?ex=6a98560a&is=6a97048a&hm=3bd1f6c2ee343a17a4a370743345b0cb2e78bf0981e1a3d5b7d0ef4807ae36dc&
+[2026-08-30T16:59:54] jerry_linux [1456211309271187577]: *no content*
