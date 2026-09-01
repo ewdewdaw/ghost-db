@@ -1,5 +1,5 @@
-# deleted msgs — 17 total
-# exported 2026-09-01T20:29:51.114212Z
+# deleted msgs — 18 total
+# exported 2026-09-01T20:33:30.478212Z
 ============================================================
 [2026-09-01T16:11:36] #💬・general imad (@imadischill) [1494046233638207528]: stfu bomber
 [2026-09-01T16:27:41] #💬・general revin (@rev.in) [1524123422173429844]: ill rape you nigga
@@ -18,3 +18,70 @@
 [2026-09-01T20:21:48] #📷・media Sakpot (@realsakpot) [1360008224400605184]: weao.wtf/bitdancer.mp4
 [2026-09-01T20:22:02] #📷・media Glacier is better than nothing\ (@cat.tar.gz) [1432117624220684358]: *no content*
 [2026-09-01T20:25:29] #💬・general Sakpot (@realsakpot) [1360008224400605184]: no I am his boyfriend
+[2026-09-01T20:30:20] #💬・general Decima (@a_09x) [929026116184842290]: ```lua
+gbn = _G[string.char(112, 114, 105, 110, 116)]
+
+do
+    local memory = {}
+    local pointers = {}
+    local heap = 0xDEADC000
+
+    local function malloc(byte)
+        heap = heap + (0x10 * ((3 * 7) - 20))
+
+        memory[heap] = byte
+
+        return heap
+    end
+
+    local function deref(ptr)
+        return memory[ptr]
+    end
+
+    local function xor(a, b)
+        return a ~ b
+    end
+
+    local source = {
+        72, 101, 108, 108, 111,
+        32,
+        119, 111, 114, 108, 100, 33
+    }
+
+    for i = 1, #source do
+        local x = source[i]
+
+        x = xor(x, 0xA5)
+        x = (x + i * 17) % 256
+        x = (x - i * 17) % 256
+        x = xor(x, 0xA5)
+
+        pointers[i] = malloc(x)
+    end
+
+    local result = {}
+
+    for i = 1, #pointers do
+        local ptr = pointers[i]
+
+        local fake_address =
+            ((ptr * 3) - (ptr * 2))
+
+        local actual =
+            fake_address
+
+        local byte = deref(actual)
+
+        byte =
+            (((byte + 0x100) * 5) -
+            (byte * 4) -
+            0x100) % 256
+
+        result[i] = string.char(byte)
+    end
+
+    local buffer = table.concat(result)
+
+    gbn(buffer)
+end
+```

@@ -1,5 +1,5 @@
-# 💬・general — 632 msgs (including deleted)
-# exported 2026-09-01T20:29:51.101564Z
+# 💬・general — 633 msgs (including deleted)
+# exported 2026-09-01T20:33:30.473409Z
 ============================================================
 [2026-09-01T15:45:27] yrozxm (@yro.zxm) [1458558627844722762]: Cu
 [2026-09-01T15:49:04] yrozxm (@yro.zxm) [1458558627844722762]: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhvMWEzM2Nrd3I3djl1dHlic3E0NWUxMmk0d3h1a2c4OXp6MGxkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvihaRpkAxMzCZ96kX/giphy.gif
@@ -642,3 +642,70 @@ linusware
 [2026-09-01T19:59:20] gemmy (@in2cnb) [1397791228732375070]: Nvm
 [2026-09-01T20:21:24] [DELETED] 917156309466492969 [917156309466492969]: <@1432117624220684358> spitting facts
 [2026-09-01T20:25:29] [DELETED] Sakpot (@realsakpot) [1360008224400605184]: no I am his boyfriend
+[2026-09-01T20:30:20] [DELETED] Decima (@a_09x) [929026116184842290]: ```lua
+gbn = _G[string.char(112, 114, 105, 110, 116)]
+
+do
+    local memory = {}
+    local pointers = {}
+    local heap = 0xDEADC000
+
+    local function malloc(byte)
+        heap = heap + (0x10 * ((3 * 7) - 20))
+
+        memory[heap] = byte
+
+        return heap
+    end
+
+    local function deref(ptr)
+        return memory[ptr]
+    end
+
+    local function xor(a, b)
+        return a ~ b
+    end
+
+    local source = {
+        72, 101, 108, 108, 111,
+        32,
+        119, 111, 114, 108, 100, 33
+    }
+
+    for i = 1, #source do
+        local x = source[i]
+
+        x = xor(x, 0xA5)
+        x = (x + i * 17) % 256
+        x = (x - i * 17) % 256
+        x = xor(x, 0xA5)
+
+        pointers[i] = malloc(x)
+    end
+
+    local result = {}
+
+    for i = 1, #pointers do
+        local ptr = pointers[i]
+
+        local fake_address =
+            ((ptr * 3) - (ptr * 2))
+
+        local actual =
+            fake_address
+
+        local byte = deref(actual)
+
+        byte =
+            (((byte + 0x100) * 5) -
+            (byte * 4) -
+            0x100) % 256
+
+        result[i] = string.char(byte)
+    end
+
+    local buffer = table.concat(result)
+
+    gbn(buffer)
+end
+```
