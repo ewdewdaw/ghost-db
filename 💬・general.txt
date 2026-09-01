@@ -1,5 +1,5 @@
-# 💬・general — 628 msgs (including deleted)
-# exported 2026-09-01T19:59:54.330656Z
+# 💬・general — 630 msgs (including deleted)
+# exported 2026-09-01T20:02:06.382079Z
 ============================================================
 [2026-09-01T15:45:27] yrozxm (@yro.zxm) [1458558627844722762]: Cu
 [2026-09-01T15:49:04] yrozxm (@yro.zxm) [1458558627844722762]: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhvMWEzM2Nrd3I3djl1dHlic3E0NWUxMmk0d3h1a2c4OXp6MGxkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvihaRpkAxMzCZ96kX/giphy.gif
@@ -638,3 +638,5 @@ linusware
 [2026-09-01T19:54:02] 917156309466492969 [917156309466492969]: if you are anti semitic = ban
 [2026-09-01T19:54:06] gemmy (@in2cnb) [1397791228732375070]: Also wait someone gave me the internal and when I tried to use it it said I couldn’t use it bc I’m on fedora
 [2026-09-01T19:54:09] gemmy (@in2cnb) [1397791228732375070]: K
+[2026-09-01T19:59:10] Decima (@a_09x) [929026116184842290]: wut
+[2026-09-01T19:59:20] gemmy (@in2cnb) [1397791228732375070]: Nvm
