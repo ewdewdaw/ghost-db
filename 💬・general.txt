@@ -1,5 +1,5 @@
-# 💬・general — 568 msgs (including deleted)
-# exported 2026-09-01T17:46:30.466220Z
+# 💬・general — 571 msgs (including deleted)
+# exported 2026-09-01T17:50:30.468467Z
 ============================================================
 [2026-09-01T15:45:27] yrozxm (@yro.zxm) [1458558627844722762]: Cu
 [2026-09-01T15:49:04] yrozxm (@yro.zxm) [1458558627844722762]: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhvMWEzM2Nrd3I3djl1dHlic3E0NWUxMmk0d3h1a2c4OXp6MGxkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvihaRpkAxMzCZ96kX/giphy.gif
@@ -578,3 +578,6 @@ linusware
 [2026-09-01T17:31:10] Glacier [1544278059677393076]: No join records for revin.
 [2026-09-01T17:31:50] 0verthevoid [1497148620695404624]: !who angeveilsss
 [2026-09-01T17:31:59] 0verthevoid [1497148620695404624]: dumb bot
+[2026-09-01T17:45:49] lakis (@its_lakis) [1293558875278020669]: !who
+[2026-09-01T17:45:54] lakis (@its_lakis) [1293558875278020669]: bot is dead
+[2026-09-01T17:46:08] lakis (@its_lakis) [1293558875278020669]: !who
