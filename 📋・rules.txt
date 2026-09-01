@@ -1,5 +1,5 @@
 # 📋・rules — 1 msgs (including deleted)
-# exported 2026-09-01T18:44:22.040335Z
+# exported 2026-09-01T18:47:22.781841Z
 ============================================================
 [2026-08-28T07:00:16] Glacier [1542790482516643851]: **Respect Others**
 Be respectful. Harassment, hate speech, and toxicity are not allowed.
