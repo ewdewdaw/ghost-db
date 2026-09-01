@@ -1,5 +1,5 @@
-# 📷・media — 138 msgs (including deleted)
-# exported 2026-09-01T20:19:30.491104Z
+# 📷・media — 140 msgs (including deleted)
+# exported 2026-09-01T20:23:15.846602Z
 ============================================================
 [2026-08-29T18:00:29] amar (@6b0m) [871031524424831006]: first
 [2026-08-29T18:01:17] lakis (@its_lakis) [1293558875278020669]: second
@@ -141,3 +141,5 @@ https://cdn.discordapp.com/attachments/1543317068651302982/1544239520814333992/i
 [2026-09-01T19:15:14] 917156309466492969 [917156309466492969]: that's inspect element
 [2026-09-01T19:15:20] Cat (@cat.tar.gz) [1432117624220684358]: ok well so is urs then
 [2026-09-01T20:09:15] [DELETED] Cat (@cat.tar.gz) [1432117624220684358]: .servernuke Glacier
+[2026-09-01T20:21:48] [DELETED] Sakpot (@realsakpot) [1360008224400605184]: weao.wtf/bitdancer.mp4
+[2026-09-01T20:22:02] [DELETED] Glacier is better than nothing\ (@cat.tar.gz) [1432117624220684358]: *no content*
