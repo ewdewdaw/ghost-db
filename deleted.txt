@@ -1,5 +1,5 @@
-# deleted msgs — 18 total
-# exported 2026-09-01T21:28:30.474518Z
+# deleted msgs — 46 total
+# exported 2026-09-02T07:33:31.358677Z
 ============================================================
 [2026-09-01T16:11:36] #💬・general imad (@imadischill) [1494046233638207528]: stfu bomber
 [2026-09-01T16:27:41] #💬・general revin (@rev.in) [1524123422173429844]: ill rape you nigga
@@ -8,7 +8,6 @@
 [2026-09-01T16:32:14] #💬・general ❦ (@lovefreq) [1325517642743812186]: i made child abuse reports
 [2026-09-01T16:32:19] #💬・general ❦ (@lovefreq) [1325517642743812186]: and ice imigriation tips
 [2026-09-01T16:41:03] #💬・general amar (@6b0m) [871031524424831006]: <@1325517642743812186> fuck u doxxer also ur dumb as shit too ❤️
-[2026-09-01T16:56:06] #🔔・announcements 917156309466492969 [917156309466492969]: @everyone do not buy linusware!!! this is a warning they didn't refund me of my 5$ and they are scammers and they WILL scam you
 [2026-09-01T17:05:41] #💬・general 0verthevoid [1497148620695404624]: xD true
 [2026-09-01T17:28:51] #💬・general revin (@rev.in) [1524123422173429844]: !who
 [2026-09-01T17:28:51] #💬・general Glacier [1544278059677393076]: No join records for revin.
@@ -16,7 +15,7 @@
 [2026-09-01T20:09:15] #📷・media Cat (@cat.tar.gz) [1432117624220684358]: .servernuke Glacier
 [2026-09-01T20:21:24] #💬・general 917156309466492969 [917156309466492969]: <@1432117624220684358> spitting facts
 [2026-09-01T20:21:48] #📷・media Sakpot (@realsakpot) [1360008224400605184]: weao.wtf/bitdancer.mp4
-[2026-09-01T20:22:02] #📷・media Glacier is better than nothing\ (@cat.tar.gz) [1432117624220684358]: *no content*
+[2026-09-01T20:22:02] #📷・media Cat (@cat.tar.gz) [1432117624220684358]: *no content*
 [2026-09-01T20:25:29] #💬・general Sakpot (@realsakpot) [1360008224400605184]: no I am his boyfriend
 [2026-09-01T20:30:20] #💬・general Decima (@a_09x) [929026116184842290]: ```lua
 gbn = _G[string.char(112, 114, 105, 110, 116)]
@@ -85,3 +84,98 @@ do
     gbn(buffer)
 end
 ```
+[2026-09-01T20:30:20] #💬・general Decima (@a_09x) [929026116184842290]: ```lua
+gbn = _G[string.char(112, 114, 105, 110, 116)]
+
+do
+    local memory = {}
+    local pointers = {}
+    local heap = 0xDEADC000
+
+    local function malloc(byte)
+        heap = heap + (0x10 * ((3 * 7) - 20))
+
+        memory[heap] = byte
+
+        return heap
+    end
+
+    local function deref(ptr)
+        return memory[ptr]
+    end
+
+    local function xor(a, b)
+        return a ~ b
+    end
+
+    local source = {
+        72, 101, 108, 108, 111,
+        32,
+        119, 111, 114, 108, 100, 33
+    }
+
+    for i = 1, #source do
+        local x = source[i]
+
+        x = xor(x, 0xA5)
+        x = (x + i * 17) % 256
+        x = (x - i * 17) % 256
+        x = xor(x, 0xA5)
+
+        pointers[i] = malloc(x)
+    end
+
+    local result = {}
+
+    for i = 1, #pointers do
+        local ptr = pointers[i]
+
+        local fake_address =
+            ((ptr * 3) - (ptr * 2))
+
+        local actual =
+            fake_address
+
+        local byte = deref(actual)
+
+        byte =
+            (((byte + 0x100) * 5) -
+            (byte * 4) -
+            0x100) % 256
+
+        result[i] = string.char(byte)
+    end
+
+    local buffer = table.concat(result)
+
+    gbn(buffer)
+end
+```
+[2026-09-02T01:10:49] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: spam test spam test
+[2026-09-02T01:13:44] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: yes u can niga
+[2026-09-02T01:14:16] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: edit test edit
+[2026-09-02T01:14:17] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: delete test
+[2026-09-02T01:26:52] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: asdasdasd
+[2026-09-02T01:27:17] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: edit test c heck EDITED
+[2026-09-02T01:27:52] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: edit test2 EDITED
+[2026-09-02T01:28:20] #💬・general Sakpot (@realsakpot) [1360008224400605184]: I am lesbian
+[2026-09-02T01:28:47] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: edit test for on_message_edit EDITED
+[2026-09-02T01:31:52] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: edit test final EDITED
+[2026-09-02T01:32:14] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: edit test final2 EDITED
+[2026-09-02T01:33:18] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: edit test final3 EDITED
+[2026-09-02T01:35:24] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: edit test final3 EDITED
+[2026-09-02T01:39:35] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: edit test final5 EDITED
+[2026-09-02T01:40:38] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: edit test final7 EDITED
+[2026-09-02T01:54:10] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: ghost edit test FINALa
+[2026-09-02T01:57:13] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: api edit test 1 EDITED
+[2026-09-02T01:57:41] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: batch line 2
+[2026-09-02T01:58:49] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: batch2 line B
+[2026-09-02T01:59:17] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: single test X EDITED
+[2026-09-02T02:01:52] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: asd
+[2026-09-02T02:02:49] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: delete content test XYZ
+[2026-09-02T02:03:09] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: eidt and del t
+[2026-09-02T02:04:51] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: single editdel test EDITED
+[2026-09-02T02:05:14] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: b3 A EDITED
+[2026-09-02T02:05:46] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: c4 B
+[2026-09-02T02:09:09] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: stack A edited
+[2026-09-02T02:09:09] #💬・general Cat (@cat.tar.gz) [1432117624220684358]: stack B original
