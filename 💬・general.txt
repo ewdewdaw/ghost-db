@@ -1,5 +1,5 @@
-# 💬・general — 163 msgs (including deleted)
-# exported 2026-09-02T07:33:37.369348Z
+# 💬・general — 183 msgs (including deleted)
+# exported 2026-09-02T07:36:57.910616Z
 ============================================================
 [2026-09-01T16:11:36] [DELETED] imad (@imadischill) [1494046233638207528]: stfu bomber
 [2026-09-01T16:27:41] [DELETED] revin (@rev.in) [1524123422173429844]: ill rape you nigga
@@ -155,7 +155,27 @@
 [2026-09-01T20:19:52] amar (@6b0m) [871031524424831006]: yo im scared who is whi
 [2026-09-01T20:19:54] amar (@6b0m) [871031524424831006]: who
 [2026-09-01T20:19:58] Cat (@cat.tar.gz) [1432117624220684358]: no i changed one of the 0s to a 8
+[2026-09-01T20:20:09] Decima (@a_09x) [929026116184842290]: whi is the game on roblox called wild horse island
+[2026-09-01T20:21:09] Sakpot (@realsakpot) [1360008224400605184]: <@1432117624220684358>
 [2026-09-01T20:21:24] [DELETED] 917156309466492969 [917156309466492969]: <@1432117624220684358> spitting facts
+[2026-09-01T20:21:34] Sakpot (@realsakpot) [1360008224400605184]: comparing rat to jewguard execution
+[2026-09-01T20:22:03] amar (@6b0m) [871031524424831006]: lol
+[2026-09-01T20:22:45] Cat (@cat.tar.gz) [1432117624220684358]: its funny how ur whole chat is just devs and haters
+[2026-09-01T20:23:10] Sakpot (@realsakpot) [1360008224400605184]: fr
+[2026-09-01T20:23:13] 917156309466492969 [917156309466492969]: It's funny how linusware is discontinued cause you guys give no fucks and just test sys5 all day
+[2026-09-01T20:23:22] 917156309466492969 [917156309466492969]: https://cdn.discordapp.com/attachments/1514988572095152250/1540164724581474464/togif.gif
+[2026-09-01T20:23:25] Sakpot (@realsakpot) [1360008224400605184]: whats wrong with sysv
+[2026-09-01T20:23:32] Cat (@cat.tar.gz) [1432117624220684358]: sys5 is fire
+[2026-09-01T20:23:38] 917156309466492969 [917156309466492969]: Nothing they are really good it's just you guys got lazy now
+[2026-09-01T20:23:47] 917156309466492969 [917156309466492969]: We will be systemfive junior
+[2026-09-01T20:23:47] Cat (@cat.tar.gz) [1432117624220684358]: and ur ai slop isnt?
+[2026-09-01T20:24:03] Sakpot (@realsakpot) [1360008224400605184]: its just nvidia support is still kinda broken
+[2026-09-01T20:24:09] Sakpot (@realsakpot) [1360008224400605184]: but if I had amd gpu I would be fine
+[2026-09-01T20:24:16] 917156309466492969 [917156309466492969]: internal is projected around 80-90% sunc but I'm sure we are vibecoded
+[2026-09-01T20:24:19] Cat (@cat.tar.gz) [1432117624220684358]: im on a 3080
+[2026-09-01T20:24:22] Decima (@a_09x) [929026116184842290]: https://cdn.discordapp.com/attachments/1532839665600561282/1536035001630728294/Screenshot_20260809_171453_Discord.gif
+[2026-09-01T20:24:39] Sakpot (@realsakpot) [1360008224400605184]: checks out
+[2026-09-01T20:25:18] 917156309466492969 [917156309466492969]: Do you have a problem with our homosexual developers?
 [2026-09-01T20:25:29] [DELETED] Sakpot (@realsakpot) [1360008224400605184]: no I am his boyfriend
 [2026-09-01T20:30:20] [DELETED] Decima (@a_09x) [929026116184842290]: ```lua
 gbn = _G[string.char(112, 114, 105, 110, 116)]
