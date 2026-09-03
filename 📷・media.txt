@@ -1,9 +1,9 @@
-# 📷・media — 411 msgs (including deleted)
-# exported 2026-09-03T04:18:19.402964Z
+# 📷・media — 465 msgs (including deleted)
+# exported 2026-09-03T04:21:21.935164Z
 ============================================================
-[2026-09-01T20:09:15] [DELETED] Cat (@cat.tar.gz) [1432117624220684358]: .servernuke Glacier
+[2026-09-01T20:09:15] [DELETED] cat.tar.gz [1432117624220684358]: .servernuke Glacier
 [2026-09-01T20:21:48] [DELETED] Sakpot (@realsakpot) [1360008224400605184]: weao.wtf/bitdancer.mp4
-[2026-09-01T20:22:02] [DELETED] Cat (@cat.tar.gz) [1432117624220684358]: *no content*
+[2026-09-01T20:22:02] [DELETED] cat.tar.gz [1432117624220684358]: *no content*
 [2026-09-01T22:29:19] Cat (@cat.tar.gz) [1432117624220684358]: https://www.kkinstagram.com/reel/DZ8aHUvTrRp/?igsi=MjBwZWI3MmdpbTk5
 [2026-09-01T23:04:47] . (@grfh) [1306686195526402089]: £800 on a tuesday
 [2026-09-01T23:05:17] T-Mobile badger [JAVASCRIPT] (@drivingbadger) [155783469132283904]: no newrocks or trueys tho
@@ -415,3 +415,89 @@ https://randomer-5cfca-default-rtdb.europe-west1.firebasedatabase.app/summary.js
 [2026-09-03T03:41:55] gemmy (@in2cnb) [1397791228732375070]: LOL
 [2026-09-03T03:42:07] Cat (@cat.tar.gz) [1432117624220684358]: holy shit
 [2026-09-03T03:42:16] Cat (@cat.tar.gz) [1432117624220684358]: stop doxxing me pls
+[2026-09-03T03:48:43] cat.tar.gz [1432117624220684358]: feeling a lil dangerous
+[2026-09-03T03:48:52] cat.tar.gz [1432117624220684358]: im gonna take a picture of the outside of my house and draw it
+[2026-09-03T03:49:00] cat.tar.gz [1432117624220684358]: first one to doxxme gets my address
+[2026-09-03T03:49:31] x_cpz [1529739396516020324]: bro thats just user id
+[2026-09-03T03:49:38] in2cnb [1397791228732375070]: thats the point 😭
+[2026-09-03T03:49:40] cat.tar.gz [1432117624220684358]: <:retard:1288849386117267580>
+[2026-09-03T03:49:59] x_cpz [1529739396516020324]: Account Creation Time 📅
+
+Created on:
+
+October 27, 2025 at 5:24 AM
+
+Account age:
+
+0.9 years (311 days)
+
+Other Info
+
+Accent Color:
+
+#d2bd9a
+
+Banner Color:
+
+#d2bd9a
+
+Primary Guild: {"badge":"a3290d71cdc373a5f63598746c8f1476","identity_enabled":true,"identity_guild_id":"1458938392338370724","tag":"LW"}
+
+Clan: {"badge":"a3290d71cdc373a5f63598746c8f1476","identity_enabled":true,"identity_guild_id":"1458938392338370724","tag":"LW"}
+
+display_name_styles: {"colors":[2417517],"effect_id":1,"font_id":11}
+
+vad_colors: Not set
+
+Technical Details
+
+ID: 1432117624220684358
+Creation Timestamp: 1761513849073
+Binary Representation: 0001001111011111111001110110010000111100010000000001000001000110
+[2026-09-03T03:50:11] cat.tar.gz [1432117624220684358]: GULP
+[2026-09-03T03:50:12] cat.tar.gz [1432117624220684358]: GULP
+[2026-09-03T03:50:13] in2cnb [1397791228732375070]: congrats?
+[2026-09-03T03:50:19] cat.tar.gz [1432117624220684358]: oh tahts hers
+[2026-09-03T03:50:24] x_cpz [1529739396516020324]: no
+[2026-09-03T03:50:25] x_cpz [1529739396516020324]: thats urs
+[2026-09-03T03:50:25] cat.tar.gz [1432117624220684358]: haha
+[2026-09-03T03:50:25] in2cnb [1397791228732375070]: thats you
+[2026-09-03T03:50:28] cat.tar.gz [1432117624220684358]: oh
+[2026-09-03T03:50:28] in2cnb [1397791228732375070]: dipfucj
+[2026-09-03T03:50:30] cat.tar.gz [1432117624220684358]: dang
+[2026-09-03T03:50:32] cat.tar.gz [1432117624220684358]: bro
+[2026-09-03T03:50:36] cat.tar.gz [1432117624220684358]: i was distracted by my drawing
+[2026-09-03T03:50:39] cat.tar.gz [1432117624220684358]: catch me a break
+[2026-09-03T03:50:53] cat.tar.gz [1432117624220684358]: *no content*
+[2026-09-03T03:50:54] cat.tar.gz [1432117624220684358]: there
+[2026-09-03T03:51:09] cat.tar.gz [1432117624220684358]: *no content*
+[2026-09-03T03:51:11] cat.tar.gz [1432117624220684358]: <:dumbsmile:1288850159718895688>
+[2026-09-03T03:51:21] cat.tar.gz [1432117624220684358]: no logs
+[2026-09-03T03:51:24] cat.tar.gz [1432117624220684358]: nothing in netowrk tab
+[2026-09-03T03:51:29] cat.tar.gz [1432117624220684358]: all other vms display
+[2026-09-03T03:51:33] cat.tar.gz [1432117624220684358]: exept this one
+[2026-09-03T03:51:34] cat.tar.gz [1432117624220684358]: guys
+[2026-09-03T03:51:39] cat.tar.gz [1432117624220684358]: what the fuck do i do
+[2026-09-03T03:52:02] cat.tar.gz [1432117624220684358]: if anyone cares i just got a 1tb ssd and 1tb hdd for 17 gbp
+[2026-09-03T03:52:04] cat.tar.gz [1432117624220684358]: from my friend
+[2026-09-03T03:52:23] cat.tar.gz [1432117624220684358]: im buying a pcie to sata
+[2026-09-03T03:52:30] cat.tar.gz [1432117624220684358]: im gonna have like 5tb
+[2026-09-03T03:52:31] cat.tar.gz [1432117624220684358]: after
+[2026-09-03T03:56:15] cat.tar.gz [1432117624220684358]: WAITTT
+[2026-09-03T03:56:28] cat.tar.gz [1432117624220684358]: do you guys think they make m.2 to x4 sata
+[2026-09-03T03:56:31] cat.tar.gz [1432117624220684358]: or x2 sata
+[2026-09-03T03:56:49] cat.tar.gz [1432117624220684358]: HOLY SHIT THEY DO
+[2026-09-03T03:56:54] cat.tar.gz [1432117624220684358]: IT LOOKS SO GOOFY
+[2026-09-03T03:57:03] cat.tar.gz [1432117624220684358]: *no content*
+[2026-09-03T03:59:11] cat.tar.gz [1432117624220684358]: shiii
+[2026-09-03T03:59:13] cat.tar.gz [1432117624220684358]: guys
+[2026-09-03T03:59:31] cat.tar.gz [1432117624220684358]: i found alcohol without id on amazon
+[2026-09-03T03:59:35] cat.tar.gz [1432117624220684358]: 🤔
+[2026-09-03T04:02:04] cat.tar.gz [1432117624220684358]: https://www.amazon.co.uk/Jinro-Chamisul-Soju-Flavours-Bundle
+[2026-09-03T04:02:14] cat.tar.gz [1432117624220684358]: https://www.amazon.co.uk/Jinro-Chamisul-Soju-Flavours-Bundle/dp
+[2026-09-03T04:02:20] cat.tar.gz [1432117624220684358]: stupid fucking amazon
+[2026-09-03T04:02:27] cat.tar.gz [1432117624220684358]: i dont want to send my tarcking daya
+[2026-09-03T04:02:31] cat.tar.gz [1432117624220684358]: from inside my link
+[2026-09-03T04:02:37] cat.tar.gz [1432117624220684358]: search up soju
+[2026-09-03T04:02:42] cat.tar.gz [1432117624220684358]: one of the products has no id check
+[2026-09-03T04:11:52] in2cnb [1397791228732375070]: w self dox
