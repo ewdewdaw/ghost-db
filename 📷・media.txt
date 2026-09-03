@@ -1,5 +1,5 @@
-# 📷・media — 253 msgs (including deleted)
-# exported 2026-09-03T03:26:27.909578Z
+# 📷・media — 318 msgs (including deleted)
+# exported 2026-09-03T03:29:30.914341Z
 ============================================================
 [2026-09-01T20:09:15] [DELETED] Cat (@cat.tar.gz) [1432117624220684358]: .servernuke Glacier
 [2026-09-01T20:21:48] [DELETED] Sakpot (@realsakpot) [1360008224400605184]: weao.wtf/bitdancer.mp4
@@ -249,8 +249,76 @@
 [2026-09-03T03:07:08] Cat (@cat.tar.gz) [1432117624220684358]: i rather make my own or use sys5
 [2026-09-03T03:08:15] Cat (@cat.tar.gz) [1432117624220684358]: *no content*
 [2026-09-03T03:09:41] dexo (@dexovision) [736208855431905300]: u use windows?
+[2026-09-03T03:09:45] Cat (@cat.tar.gz) [1432117624220684358]: no
+[2026-09-03T03:09:47] Cat (@cat.tar.gz) [1432117624220684358]: ?
+[2026-09-03T03:10:26] dexo (@dexovision) [736208855431905300]: alr
+[2026-09-03T03:10:29] Cat (@cat.tar.gz) [1432117624220684358]: why
+[2026-09-03T03:10:48] dexo (@dexovision) [736208855431905300]: no reason
+[2026-09-03T03:11:31] Cat (@cat.tar.gz) [1432117624220684358]: only time i use windwos is when i make malware for it
+[2026-09-03T03:11:45] Cat (@cat.tar.gz) [1432117624220684358]: *no content*
+[2026-09-03T03:12:56] dexo (@dexovision) [736208855431905300]: dude u made one cookiem logger for windows and js changed it to gay since u got scared
+[2026-09-03T03:13:01] dexo (@dexovision) [736208855431905300]: me and my pal alr got it though
+[2026-09-03T03:13:08] Cat (@cat.tar.gz) [1432117624220684358]: ?
+[2026-09-03T03:13:12] Cat (@cat.tar.gz) [1432117624220684358]: It's not mine
+[2026-09-03T03:13:21] dexo (@dexovision) [736208855431905300]: also u should prob use a windows vm when making malware
+[2026-09-03T03:13:22] Cat (@cat.tar.gz) [1432117624220684358]: I Didint make it
+[2026-09-03T03:13:28] dexo (@dexovision) [736208855431905300]: cool
+[2026-09-03T03:13:30] gemmy (@in2cnb) [1397791228732375070]: buddy thought he was slick
+[2026-09-03T03:13:32] gemmy (@in2cnb) [1397791228732375070]: 😭
+[2026-09-03T03:13:37] Cat (@cat.tar.gz) [1432117624220684358]: *no content*
+[2026-09-03T03:13:48] gemmy (@in2cnb) [1397791228732375070]: *no content*
+[2026-09-03T03:13:52] gemmy (@in2cnb) [1397791228732375070]: this is the python file
+[2026-09-03T03:13:53] gemmy (@in2cnb) [1397791228732375070]: lol
+[2026-09-03T03:14:12] Cat (@cat.tar.gz) [1432117624220684358]: Uh ok
+[2026-09-03T03:14:20] Cat (@cat.tar.gz) [1432117624220684358]: Anyone could of done that In seconds
+[2026-09-03T03:14:24] Cat (@cat.tar.gz) [1432117624220684358]: It's old shit
+[2026-09-03T03:14:27] Cat (@cat.tar.gz) [1432117624220684358]: Like really olddd
+[2026-09-03T03:17:13] gemmy (@in2cnb) [1397791228732375070]: ok
+[2026-09-03T03:17:35] gemmy (@in2cnb) [1397791228732375070]: *no content*
+[2026-09-03T03:17:37] gemmy (@in2cnb) [1397791228732375070]: sure
+[2026-09-03T03:17:40] gemmy (@in2cnb) [1397791228732375070]: nice and old huh?
+[2026-09-03T03:17:48] Cat (@cat.tar.gz) [1432117624220684358]: What?
+[2026-09-03T03:17:54] Cat (@cat.tar.gz) [1432117624220684358]: It's 2 months old
+[2026-09-03T03:17:56] gemmy (@in2cnb) [1397791228732375070]: ```
+https://randomer-5cfca-default-rtdb.europe-west1.firebasedatabase.app/data/<uuid>.json
+https://randomer-5cfca-default-rtdb.europe-west1.firebasedatabase.app/summary.json
+```
+[2026-09-03T03:18:00] gemmy (@in2cnb) [1397791228732375070]: fire base urls...
+[2026-09-03T03:18:06] gemmy (@in2cnb) [1397791228732375070]: wonder what youre putting there
+[2026-09-03T03:18:10] Cat (@cat.tar.gz) [1432117624220684358]: Yeah nigga I took the steamer down long ago
+[2026-09-03T03:18:11] Cat (@cat.tar.gz) [1432117624220684358]: U can check
+[2026-09-03T03:18:37] Cat (@cat.tar.gz) [1432117624220684358]: Can U even write to it anymore
+[2026-09-03T03:18:43] Cat (@cat.tar.gz) [1432117624220684358]: I locked them down months ago
+[2026-09-03T03:19:03] Cat (@cat.tar.gz) [1432117624220684358]: Have Ur fun
+[2026-09-03T03:19:06] Cat (@cat.tar.gz) [1432117624220684358]: It's harmless
+[2026-09-03T03:19:26] dexo (@dexovision) [736208855431905300]: entire repo gone?
+[2026-09-03T03:19:30] dexo (@dexovision) [736208855431905300]: is someone scared
 [2026-09-03T03:19:48] [DELETED] spongy (@souhailhassini0515) [699595042687418440]: nigga i forgot i even had that shit up
 [2026-09-03T03:19:53] [DELETED] spongy (@souhailhassini0515) [699595042687418440]: oof
+[2026-09-03T03:19:59] Cat (@cat.tar.gz) [1432117624220684358]: anyway
+[2026-09-03T03:20:01] Cat (@cat.tar.gz) [1432117624220684358]: nigga
+[2026-09-03T03:20:05] Cat (@cat.tar.gz) [1432117624220684358]: i forgot i even had tht shit up
+[2026-09-03T03:20:08] dexo (@dexovision) [736208855431905300]: OH FUCK NO whotf is spongy with that corny as pfp
+[2026-09-03T03:20:13] Cat (@cat.tar.gz) [1432117624220684358]: LMAOOO
+[2026-09-03T03:20:18] dexo (@dexovision) [736208855431905300]: and your bio said "python, utc-8, and html"
+[2026-09-03T03:20:25] dexo (@dexovision) [736208855431905300]: lmao we cannot be deadass
 [2026-09-03T03:20:35] [DELETED] Cat (@cat.tar.gz) [1432117624220684358]: brother i bought a token for the spy
 [2026-09-03T03:20:39] [DELETED] Cat (@cat.tar.gz) [1432117624220684358]: and put random shit in it
 [2026-09-03T03:20:48] [DELETED] Cat (@cat.tar.gz) [1432117624220684358]: ive never even been to a utc+8 country
+[2026-09-03T03:22:31] gemmy (@in2cnb) [1397791228732375070]: cachy os is crazy work
+[2026-09-03T03:22:37] Cat (@cat.tar.gz) [1432117624220684358]: cachy os is goated work
+[2026-09-03T03:22:38] gemmy (@in2cnb) [1397791228732375070]: u gotta be a trend hopper or smth
+[2026-09-03T03:22:39] gemmy (@in2cnb) [1397791228732375070]: 😭
+[2026-09-03T03:22:49] Cat (@cat.tar.gz) [1432117624220684358]: whats wrong with cachy nigga
+[2026-09-03T03:23:13] gemmy (@in2cnb) [1397791228732375070]: "yeah i use cahcy os  and mulvad"
+[2026-09-03T03:23:23] Cat (@cat.tar.gz) [1432117624220684358]: mullvad is fucking fire too
+[2026-09-03T03:23:26] Cat (@cat.tar.gz) [1432117624220684358]: its cheap asf
+[2026-09-03T03:23:29] Cat (@cat.tar.gz) [1432117624220684358]: i use it for school
+[2026-09-03T03:23:35] Cat (@cat.tar.gz) [1432117624220684358]: ur tryna diss anything
+[2026-09-03T03:23:39] Cat (@cat.tar.gz) [1432117624220684358]: fn
+[2026-09-03T03:24:53] gemmy (@in2cnb) [1397791228732375070]: holy opsec 😭
+[2026-09-03T03:25:07] dexo (@dexovision) [736208855431905300]: lemme guess ur in nullsec and watch mrrobot
+[2026-09-03T03:25:26] Cat (@cat.tar.gz) [1432117624220684358]: nigga
+[2026-09-03T03:25:44] Cat (@cat.tar.gz) [1432117624220684358]: what vpn am i supposed to use
+[2026-09-03T03:25:52] gemmy (@in2cnb) [1397791228732375070]: leave the server before its too late😭
+[2026-09-03T03:26:01] Cat (@cat.tar.gz) [1432117624220684358]: nigga wtf ru talking about
