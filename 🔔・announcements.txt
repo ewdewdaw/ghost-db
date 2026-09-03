@@ -1,4 +1,6 @@
-# 🔔・announcements — 1 msgs (including deleted)
-# exported 2026-09-03T15:58:17.995264Z
+# 🔔・announcements — 3 msgs (including deleted)
+# exported 2026-09-03T16:01:19.174329Z
 ============================================================
 [2026-09-01T13:17:55] Glacier [1542618356786401292]: prepare for the glacier sUNC test soon...
+[2026-09-03T08:30:29] [DELETED] 917156309466492969 [917156309466492969]: @everyone congratulations for 75 members! we have something big coming for everyone soon
+[2026-09-03T15:57:51] [DELETED] 917156309466492969 [917156309466492969]: blame <@1432117624220684358> cause they copied our whole server
