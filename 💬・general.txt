@@ -1,5 +1,5 @@
-# 💬・general — 709 msgs (including deleted)
-# exported 2026-09-03T16:37:36.325754Z
+# 💬・general — 710 msgs (including deleted)
+# exported 2026-09-03T16:40:36.907783Z
 ============================================================
 [2026-09-01T16:11:36] [DELETED] imad (@imadischill) [1494046233638207528]: stfu bomber
 [2026-09-01T16:27:41] [DELETED] rev.in [1524123422173429844]: ill rape you nigga
@@ -867,3 +867,4 @@ end
 [2026-09-03T15:58:06] 917156309466492969 [917156309466492969]: too much going on rn
 [2026-09-03T15:58:42] 4f0s [1492899242992337049]: its fine i guess i would rather have a stable build that an unstable one
 [2026-09-03T15:59:16] 917156309466492969 [917156309466492969]: put it in a way that the internal build is really unstable so that version is private until a more stable one comes out then that would be public
+[2026-09-03T16:40:16] [DELETED] 917156309466492969 [917156309466492969]: s! lock
