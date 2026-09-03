@@ -1,5 +1,5 @@
-# 📷・media — 318 msgs (including deleted)
-# exported 2026-09-03T03:41:45.994330Z
+# 📷・media — 337 msgs (including deleted)
+# exported 2026-09-03T03:44:46.913405Z
 ============================================================
 [2026-09-01T20:09:15] [DELETED] Cat (@cat.tar.gz) [1432117624220684358]: .servernuke Glacier
 [2026-09-01T20:21:48] [DELETED] Sakpot (@realsakpot) [1360008224400605184]: weao.wtf/bitdancer.mp4
@@ -322,3 +322,22 @@ https://randomer-5cfca-default-rtdb.europe-west1.firebasedatabase.app/summary.js
 [2026-09-03T03:25:44] Cat (@cat.tar.gz) [1432117624220684358]: what vpn am i supposed to use
 [2026-09-03T03:25:52] gemmy (@in2cnb) [1397791228732375070]: leave the server before its too late😭
 [2026-09-03T03:26:01] Cat (@cat.tar.gz) [1432117624220684358]: nigga wtf ru talking about
+[2026-09-03T03:26:25] Cat (@cat.tar.gz) [1432117624220684358]: dont even joke lad
+[2026-09-03T03:26:39] gemmy (@in2cnb) [1397791228732375070]: just wait ig
+[2026-09-03T03:26:54] gemmy (@in2cnb) [1397791228732375070]: i mean u can leave and stay anonymous or wtv 😭
+[2026-09-03T03:27:12] Cat (@cat.tar.gz) [1432117624220684358]: gl
+[2026-09-03T03:28:33] gemmy (@in2cnb) [1397791228732375070]: type ifconfig in the terminal
+[2026-09-03T03:28:50] gemmy (@in2cnb) [1397791228732375070]: does it start with 192?
+[2026-09-03T03:28:58] Cat (@cat.tar.gz) [1432117624220684358]: nigga
+[2026-09-03T03:29:18] Cat (@cat.tar.gz) [1432117624220684358]: LMAO
+[2026-09-03T03:29:21] Cat (@cat.tar.gz) [1432117624220684358]: ok taht acutally made me laugh
+[2026-09-03T03:29:24] Cat (@cat.tar.gz) [1432117624220684358]: thanks
+[2026-09-03T03:29:42] Cat (@cat.tar.gz) [1432117624220684358]: my rat api enpoint on 127.0.0.1:3030
+[2026-09-03T03:29:43] gemmy (@in2cnb) [1397791228732375070]: ik its ur public ip but still
+[2026-09-03T03:29:53] Cat (@cat.tar.gz) [1432117624220684358]: dang bro i wish i had a public ip
+[2026-09-03T03:30:01] Cat (@cat.tar.gz) [1432117624220684358]: my provider needs me upgrade my plan
+[2026-09-03T03:30:05] Cat (@cat.tar.gz) [1432117624220684358]: so i can port forward
+[2026-09-03T03:30:08] Cat (@cat.tar.gz) [1432117624220684358]: from my public ip
+[2026-09-03T03:30:10] gemmy (@in2cnb) [1397791228732375070]: 😭
+[2026-09-03T03:30:20] dexo (@dexovision) [736208855431905300]: r u retarded
+[2026-09-03T03:30:29] Cat (@cat.tar.gz) [1432117624220684358]: i obv have a public ip
