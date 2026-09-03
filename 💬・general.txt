@@ -1,5 +1,5 @@
-# 💬・general — 545 msgs (including deleted)
-# exported 2026-09-03T02:13:27.910409Z
+# 💬・general — 552 msgs (including deleted)
+# exported 2026-09-03T02:16:31.987593Z
 ============================================================
 [2026-09-01T16:11:36] [DELETED] imad (@imadischill) [1494046233638207528]: stfu bomber
 [2026-09-01T16:27:41] [DELETED] revin (@rev.in) [1524123422173429844]: ill rape you nigga
@@ -701,3 +701,10 @@ end
 [2026-09-03T01:22:59] dexo (@dexovision) [736208855431905300]: ddue dom u got the offsets or no
 [2026-09-03T01:26:21] dexo (@dexovision) [736208855431905300]: <@917156309466492969>
 [2026-09-03T01:26:22] dexo (@dexovision) [736208855431905300]: no?
+[2026-09-03T02:03:53] . (@grfh) [1306686195526402089]: for what
+[2026-09-03T02:03:59] . (@grfh) [1306686195526402089]: <@736208855431905300>
+[2026-09-03T02:04:25] dexo (@dexovision) [736208855431905300]: im making my own executor cause i dont trust linusware
+[2026-09-03T02:04:28] dexo (@dexovision) [736208855431905300]: i alr got them though
+[2026-09-03T02:04:43] . (@grfh) [1306686195526402089]: u got strucs?
+[2026-09-03T02:04:45] dexo (@dexovision) [736208855431905300]: i js reverse engineered the mocktail
+[2026-09-03T02:05:04] dexo (@dexovision) [736208855431905300]: im making an auto updater for it though soi the offsets arent broken every sober update
