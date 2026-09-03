@@ -1,5 +1,5 @@
-# 📷・media — 170 msgs (including deleted)
-# exported 2026-09-03T01:21:49.202967Z
+# 📷・media — 172 msgs (including deleted)
+# exported 2026-09-03T01:24:51.121487Z
 ============================================================
 [2026-09-01T20:09:15] [DELETED] cat.tar.gz [1432117624220684358]: .servernuke Glacier
 [2026-09-01T20:21:48] [DELETED] Sakpot (@realsakpot) [1360008224400605184]: weao.wtf/bitdancer.mp4
@@ -171,3 +171,5 @@
 [2026-09-02T12:31:15] 917156309466492969 [917156309466492969]: Nothing to make money off of
 [2026-09-03T00:23:43] stickmasterIuke (@stick.master.luke) [1516511055377862840]: same person who ruined jerry's life btw
 [2026-09-03T00:23:48] stickmasterIuke (@stick.master.luke) [1516511055377862840]: also how is he doing
+[2026-09-03T01:20:40] . (@grfh) [1306686195526402089]: lol
+[2026-09-03T01:20:41] . (@grfh) [1306686195526402089]: jerry
