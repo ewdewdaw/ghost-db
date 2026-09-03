@@ -1,5 +1,5 @@
-# 💬・general — 538 msgs (including deleted)
-# exported 2026-09-03T01:27:53.592584Z
+# 💬・general — 545 msgs (including deleted)
+# exported 2026-09-03T01:30:55.851757Z
 ============================================================
 [2026-09-01T16:11:36] [DELETED] imad (@imadischill) [1494046233638207528]: stfu bomber
 [2026-09-01T16:27:41] [DELETED] revin (@rev.in) [1524123422173429844]: ill rape you nigga
@@ -694,3 +694,10 @@ end
 [2026-09-03T01:06:38] 917156309466492969 [917156309466492969]: im tired of your bullshit
 [2026-09-03T01:06:39] 917156309466492969 [917156309466492969]: your banned
 [2026-09-03T01:13:00] Sakpot (@realsakpot) [1360008224400605184]: why
+[2026-09-03T01:21:08] dexo (@dexovision) [736208855431905300]: dude does anyone know the offsets for sober
+[2026-09-03T01:21:22] dexo (@dexovision) [736208855431905300]: i do NOT wanna reverse engineer it in ghidra for a long time
+[2026-09-03T01:22:29] 917156309466492969 [917156309466492969]: ghidra in the big 26
+[2026-09-03T01:22:44] 917156309466492969 [917156309466492969]: ida pro is way better
+[2026-09-03T01:22:59] dexo (@dexovision) [736208855431905300]: ddue dom u got the offsets or no
+[2026-09-03T01:26:21] dexo (@dexovision) [736208855431905300]: <@917156309466492969>
+[2026-09-03T01:26:22] dexo (@dexovision) [736208855431905300]: no?
