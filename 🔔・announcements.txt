@@ -1,20 +1,13 @@
-# 🔔・announcements — 17 msgs (including deleted)
-# exported 2026-09-03T19:54:47.999299Z
+# 🔔・announcements — 10 msgs (including deleted)
+# exported 2026-09-03T19:57:48.418218Z
 ============================================================
-[2026-09-01T13:17:55] Glacier [1542618356786401292]: prepare for the glacier sUNC test soon...
 [2026-09-03T08:30:29] [DELETED] 917156309466492969 [917156309466492969]: @everyone congratulations for 75 members! we have something big coming for everyone soon
-[2026-09-03T15:52:57] 917156309466492969 [917156309466492969]: @everyone the internal is going to be private for an indefinite amount of time, maybe in future we will have a public version but this was decided by around 8 people in behind the scenes this doesn't mean we are discontinuing it just currently means at the moment it is private like some of you may know systemv as a private internal aswell we will continue posting updates on it and when it is fully ready to release then sometime in the future there could be a public version, we might also be handing out tester to groups of people to try out the private version ❤️
 [2026-09-03T15:52:57] [DELETED] 917156309466492969 [917156309466492969]: @everyone the internal is going to be private for an indefinite amount of time, maybe in future we will have a public version but this was decided by around 8 people in behind the scenes this doesn't mean we are discontinuing it just currently means at the moment it is private like some of you may know systemv as a private internal aswell we will continue posting updates on it and when it is fully ready to release then sometime in the future there could be a public version, we might also be handing out tester to groups of people to try out the private version ❤️
-[2026-09-03T15:54:01] 917156309466492969 [917156309466492969]: certain events that happened has made our developers a little unmotivated
 [2026-09-03T15:54:01] [DELETED] 917156309466492969 [917156309466492969]: certain events that happened has made our developers a little unmotivated
-[2026-09-03T15:57:42] 917156309466492969 [917156309466492969]: please dont leave the server it doesn't mean that you guys will ever see the internal build!
 [2026-09-03T15:57:42] [DELETED] 917156309466492969 [917156309466492969]: please dont leave the server it doesn't mean that you guys will ever see the internal build!
 [2026-09-03T15:57:51] [DELETED] 917156309466492969 [917156309466492969]: blame <@1432117624220684358> cause they copied our whole server
-[2026-09-03T15:59:20] 917156309466492969 [917156309466492969]: put it in a way that the internal build is really unstable so that version is private until a more stable one comes out then that would be public
 [2026-09-03T15:59:20] [DELETED] 917156309466492969 [917156309466492969]: put it in a way that the internal build is really unstable so that version is private until a more stable one comes out then that would be public
 [2026-09-03T18:47:15] [DELETED] 917156309466492969 [917156309466492969]: false news chat
 [2026-09-03T18:47:28] [DELETED] 917156309466492969 [917156309466492969]: https://klipy.com/gifs/cat-cat-with-tongue
-[2026-09-03T19:35:02] 917156309466492969 [917156309466492969]: https://cdn.discordapp.com/attachments/1514988572095152250/1540164724581474464/togif.gif
 [2026-09-03T19:35:02] [DELETED] 917156309466492969 [917156309466492969]: https://cdn.discordapp.com/attachments/1514988572095152250/1540164724581474464/togif.gif
-[2026-09-03T19:35:16] 917156309466492969 [917156309466492969]: We changed our minds
 [2026-09-03T19:35:16] [DELETED] 917156309466492969 [917156309466492969]: We changed our minds
