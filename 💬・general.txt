@@ -1,5 +1,5 @@
-# 💬・general — 558 msgs (including deleted)
-# exported 2026-09-03T04:36:31.053004Z
+# 💬・general — 560 msgs (including deleted)
+# exported 2026-09-03T04:39:34.916642Z
 ============================================================
 [2026-09-01T16:11:36] [DELETED] imad (@imadischill) [1494046233638207528]: stfu bomber
 [2026-09-01T16:27:41] [DELETED] revin (@rev.in) [1524123422173429844]: ill rape you nigga
@@ -714,3 +714,5 @@ end
 [2026-09-03T03:41:12] ᥊ᥲ᥎ (@x_cpz) [1529739396516020324]: why would you reverse engineer.
 [2026-09-03T03:41:38] ᥊ᥲ᥎ (@x_cpz) [1529739396516020324]: its in github
 [2026-09-03T04:05:07] Cat (@cat.tar.gz) [1432117624220684358]: i think he meant finding offsets
+[2026-09-03T04:37:01] [DELETED] spongy (@souhailhassini0515) [699595042687418440]: latency test 1788410218
+[2026-09-03T04:37:30] [DELETED] spongy (@souhailhassini0515) [699595042687418440]: latency2 1788410248
