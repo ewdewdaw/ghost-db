@@ -1,5 +1,5 @@
-# deleted msgs — 71 total
-# exported 2026-09-03T18:45:03.290096Z
+# deleted msgs — 77 total
+# exported 2026-09-03T18:48:04.838579Z
 ============================================================
 [2026-08-30T16:59:54] #💻・sneak-peek jerry_linux [1456211309271187577]: *no content*
 [2026-09-01T16:11:36] #💬・general imad (@imadischill) [1494046233638207528]: stfu bomber
@@ -201,6 +201,12 @@ end
 [2026-09-03T08:30:29] #🔔・announcements 917156309466492969 [917156309466492969]: @everyone congratulations for 75 members! we have something big coming for everyone soon
 [2026-09-03T09:17:13] #💬・general 917156309466492969 [917156309466492969]: https://cdn.discordapp.com/attachments/1198458816891727952/1371008617179775016/caption_1.gif
 [2026-09-03T09:17:42] #💬・general 917156309466492969 [917156309466492969]: https://cornhub.com
+[2026-09-03T15:52:57] #🔔・announcements 917156309466492969 [917156309466492969]: @everyone the internal is going to be private for an indefinite amount of time, maybe in future we will have a public version but this was decided by around 8 people in behind the scenes this doesn't mean we are discontinuing it just currently means at the moment it is private like some of you may know systemv as a private internal aswell we will continue posting updates on it and when it is fully ready to release then sometime in the future there could be a public version, we might also be handing out tester to groups of people to try out the private version ❤️
+[2026-09-03T15:54:01] #🔔・announcements 917156309466492969 [917156309466492969]: certain events that happened has made our developers a little unmotivated
+[2026-09-03T15:57:42] #🔔・announcements 917156309466492969 [917156309466492969]: please dont leave the server it doesn't mean that you guys will ever see the internal build!
 [2026-09-03T15:57:51] #🔔・announcements 917156309466492969 [917156309466492969]: blame <@1432117624220684358> cause they copied our whole server
 [2026-09-03T15:59:16] #💬・general 917156309466492969 [917156309466492969]: put it in a way that the internal build is really unstable so that version is private until a more stable one comes out then that would be public
+[2026-09-03T15:59:20] #🔔・announcements 917156309466492969 [917156309466492969]: put it in a way that the internal build is really unstable so that version is private until a more stable one comes out then that would be public
 [2026-09-03T16:40:16] #💬・general 917156309466492969 [917156309466492969]: s! lock
+[2026-09-03T18:47:15] #🔔・announcements 917156309466492969 [917156309466492969]: false news chat
+[2026-09-03T18:47:28] #🔔・announcements 917156309466492969 [917156309466492969]: https://klipy.com/gifs/cat-cat-with-tongue
