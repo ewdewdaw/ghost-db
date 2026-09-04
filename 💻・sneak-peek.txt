@@ -1,5 +1,5 @@
 # 💻・sneak-peek — 2 msgs (including deleted)
-# exported 2026-09-04T10:34:15.118894Z
+# exported 2026-09-04T10:37:17.056067Z
 ============================================================
 [2026-08-29T09:44:42] revin (@rev.in) [1524123422173429844]: @here : Unlike sober , we will have an option to import and export FFlags making it easier to share them and use them.  Also , unlike sober we will have much more customization. Expect glacierstrap to release soon , currently working on a stable build which works on most distrobutions.  Got suggestions for glacierstrap , let us know!
 [2026-08-29T19:13:48] amar (@6b0m) [871031524424831006]: external flight @here
